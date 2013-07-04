@@ -1,0 +1,5 @@
+bin/
+gen/
+
+AndroidManifest.xml
+libs/android-support-v4.jar
